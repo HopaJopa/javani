@@ -12,5 +12,5 @@
 * Выполнил студент: Полетаев Даниил
 * Проверил: Литвинов И.В.
 
-        $ pochti devytka youu
-        $ wwwwww
+         $ pochti devytka youu
+         $ wwwwww
